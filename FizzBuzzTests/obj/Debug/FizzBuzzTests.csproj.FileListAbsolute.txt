@@ -1,0 +1,7 @@
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\FizzBuzzTests\bin\Debug\FizzBuzzTests.dll
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\FizzBuzzTests\bin\Debug\FizzBuzzTests.pdb
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\FizzBuzzTests\bin\Debug\ForClient.dll
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\FizzBuzzTests\bin\Debug\ForClient.pdb
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\FizzBuzzTests\obj\Debug\FizzBuzzTests.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb

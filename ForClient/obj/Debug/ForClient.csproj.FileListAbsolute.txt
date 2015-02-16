@@ -1,0 +1,5 @@
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\ForClient\bin\Debug\ForClient.dll
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\ForClient\bin\Debug\ForClient.pdb
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\ForClient\obj\Debug\ForClient.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\ForClient\obj\Debug\ForClient.dll
+C:\Users\Eric\Documents\GitHub\ClearMeasureInterviewWithAllProjects\ForClient\obj\Debug\ForClient.pdb
